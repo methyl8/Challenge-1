@@ -14,35 +14,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-h1 {
-    display: inline-block;
-    font-size: 48px;
-}
 
-.seo {
-    color: #d9dcd6;
-}
-
-nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-ul {
-    list-style-type: none;
-}
-
-li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-/* 
-this really doesn't seem necessary with div tags removed and other tags are only used once
-though if there were other h1/ul/li tags with different formatting  
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -68,7 +40,7 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-} */
+}
 
 a {
     color: #ffffff;
