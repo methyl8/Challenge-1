@@ -103,7 +103,8 @@ p {
     max-width: 150px;
 }
 
-/* .benefit-lead {
+/* consolidated into benefit-card
+ .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -168,7 +169,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* .search-engine-optimization {
+/* consolidated into img-card
+ .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
